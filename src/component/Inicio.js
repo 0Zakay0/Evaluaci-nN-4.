@@ -4,8 +4,9 @@ import { Link } from "react-router-dom";
 const Inicio = () => {
     return(
         <>
-        <p>popaospdopaosdpoapsd</p>
-        <Link to="/perfil"> perfil</Link>
+        <h1>Inicio</h1>
+        <Link to="/perfil"> perfil</Link><br></br>
+        <Link to="/ejercicio"> Ejercicio</Link>
         </>
     )
 }
