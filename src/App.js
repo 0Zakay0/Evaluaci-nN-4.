@@ -3,6 +3,7 @@ import { Route, Routes, Link } from "react-router-dom"
 import Inicio from "./component/Inicio";
 import Perfil from "./component/Perfil";
 import Ejercicio from "./component/Ejercicio";
+
 const App = () => {
   return (
     <>

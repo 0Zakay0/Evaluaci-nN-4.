@@ -25,6 +25,7 @@ const Ejercicio = () =>{
             <input type="text" name="numero" placeholder="Ingrese el número " onChange={handleNumeros}/>
             <button type="button" onClick={handleCalcular}>Calcular Factorial</button>
             <p>El factorial de{obtNumero} es {obtCalculo} </p>
+            <Link to="/perfil"> perfil</Link><br></br>
         </>
         
         
