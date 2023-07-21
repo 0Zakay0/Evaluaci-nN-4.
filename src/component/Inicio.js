@@ -16,7 +16,8 @@ const Inicio = () => {
             <h1>Inicio</h1>
             <Link to="/perfil"> perfil</Link><br></br>
             <Link to="/ejercicio"> Ejercicio</Link><br></br>
-            <Link to="/usuario"> Usuario</Link>
+            <Link to="/usuario"> Usuario</Link><br></br>
+            <Link to="/pokedex">Pokemon</Link>
             <br></br>
             <div className="col-12">
                 <h1>Juegos Eneba</h1><hr></hr>
