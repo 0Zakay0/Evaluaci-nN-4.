@@ -1,0 +1,52 @@
+
+.inicio{
+    width: 1200px;
+    height: 800px;
+    margin-left: 300px;
+    margin-top: 100px;
+    background-color: blueviolet;
+    background-image: url(../assets/imagenes/nuevofondo1.jpg);
+    background-size: cover;
+}
+.header{
+    position: relative;
+    top: 200px;
+    left: 300px;
+
+}
+.letra{
+    color: aliceblue;
+    font-size: 20px;
+    border: rgb(0, 79, 248) solid;
+    position: relative;
+        
+    }
+.texto{
+    width: 500px;
+    height: 3000px;
+    float: left;
+    margin: 100px;
+    position: relative;
+    top: 100px;
+}
+.imagenq{
+    width: 500px;
+    float: left;
+    position: relative;
+    right: 170px;
+    top: 100px;
+   
+}
+.imagenw{
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin: 50px;
+}
+.tituloQuienesSomos{
+    text-align: center;
+}
+.body1{
+    position: relative;
+    bottom: 150px;
+}

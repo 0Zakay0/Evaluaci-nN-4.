@@ -1,0 +1,164 @@
+
+.inicio{
+    width: 1200px;
+    height: 800px;
+    margin-left: 300px;
+    margin-top: 100px;
+    background-color: blueviolet;
+    background-image: url(../assets/imagenes/nuevofondo1.jpg);
+    background-size: cover;
+}
+.imagen{
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+.navs{
+    width: 800px;
+    height: 100px;
+    position: relative;
+    top: 25px;
+    left: 50px;
+}
+.paginas{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    right: 50px;
+}
+.seccion1{
+    width: 600px;
+    height: 1000px;
+    float: left;
+}
+.accordion{
+    width: 555px;
+    margin-left: 50px;
+    float: left;
+    position: relative;
+    right: 80px;
+    bottom: 30px;
+    
+}
+.fondo_color{
+    background-color: rgb(102, 66, 246);
+    color: aliceblue;
+}
+.fondo_color1{
+    background-color: rgb(102, 66, 246);;
+    color: aliceblue;
+}
+.fondo_color2{
+    background-color: rgb(102, 66, 246);
+    color: aliceblue;
+}
+.letras_fondo{
+    color: aliceblue;
+    background-color: rgb(102, 66, 246);
+}
+
+.seccion2{
+    width: 600px;
+    float: left;
+}
+
+.card1{
+    width: 120px ;
+    height: 70px;
+    position: relative;
+    left: 50px;
+    bottom: 10px;
+    
+}
+
+.card2{
+    width: 120px ;
+    height: 70px;
+    position: relative;
+    bottom: 75px;
+    left: 225px; 
+}
+
+.card3{
+    width: 120px ;
+    height: 70px;
+    position: relative;
+    bottom: 145px;
+    left: 400px;
+    
+    
+}
+.card4{
+    width: 120px ;
+    height: 70px;
+    position: relative;
+    top: 140px;
+    left: 50px;
+    
+}
+
+.card5{
+    width: 120px ;
+    height: 70px;
+    position: relative;
+    top: 70px;
+    left: 225px;
+    
+}
+
+.card6{
+    width: 120px ;
+    height: 70px;
+    position: relative;
+    left: 400px;
+    
+    
+}
+
+.carta1 {
+    background-color: rgb(150, 38, 255);
+    height: 150px; /* Establece la altura fija para todas las cartas */
+    position: relative; /* Agregamos posicionamiento relativo */
+  }
+.logo2{
+    width: 150px;
+    height: 150px;
+}
+.letr{
+    color: aliceblue;
+    font-size: 20px;
+    border: rgb(0, 79, 248) solid 1px;
+    position: relative;
+        
+    }
+
+p{
+    color: aliceblue;
+    text-align: center;
+}
+.titulo{
+    color: aliceblue;
+    font-size: 14px;
+    text-align: left;
+}
+.titulo1{
+    color: aliceblue;
+    position: relative;
+    bottom: 35px;
+    right: 30px;
+
+}
+.boton {
+    width: 120px; /* Aumenta el ancho del botón para centrar el texto */
+    position: absolute; /* Posicionamiento absoluto para el botón */
+    top: 115px; /* Ajusta el espacio en la parte inferior */
+    left: 50%; /* Lleva el botón al centro horizontal */
+    transform: translateX(-50%); /* Centra horizontalmente el botón */
+    font-size: 14px;
+    text-align: center; /* Centra el texto horizontalmente */
+    padding: 5px 10px; /* Añade padding para mejorar la apariencia */
+    /* Agrega estilos para centrar el texto verticalmente */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

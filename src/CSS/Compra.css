@@ -1,0 +1,87 @@
+.inicio1{
+    width: 1200px;
+    height: 800px;
+    margin-left: 300px;
+    margin-top: 50px;
+    background-color: rgb(27, 8, 70);
+    background-image: url(../assets/imagenes/nuevofondo1.jpg);
+    background-size: cover;
+}
+
+.inicio-container {
+    width: 600px; 
+    height: 730px;
+    margin: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    position: relative;
+    top: 50px;
+  }
+  
+ 
+  .ingreso-datos {
+    margin-top: 20px;
+  }
+  
+ 
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+
+.volver{
+    padding: 12px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+    left: 20px;
+}
+
+
+.completado{
+    position: relative;
+    left: 580px;
+    bottom: 450px;
+}
+.compra{
+    font-size: 60px;
+}
+
+body{
+    position: relative;
+    bottom: 30px;
+}
